@@ -13,3 +13,4 @@ class ArmstrongNumbers {
     return sum == numbers;
   }
 }
+// this is an armStrong number class 
